@@ -1,0 +1,44 @@
+# System files
+.DS_Store
+.Trash/
+.CFUserTextEncoding
+.zsh_history
+
+# IDE/Editor files
+.vscode/
+.atom/
+
+# Node-related files (if any)
+node_modules/
+
+# Environment files
+.env
+.venv/
+
+# MacOS system files
+.DS_Store
+# System files
+.DS_Store
+.Trash/
+.CFUserTextEncoding
+.zsh_history
+
+# IDE/Editor files
+.vscode/
+.atom/
+
+# Node-related files (if any)
+node_modules/
+
+# Environment files
+.env
+.venv/
+
+# MacOS system files
+.DS_Store
+
+git add .gitignore
+git commit -m "Added .gitignore to ignore system and unrelated files"
+git push origin main
+
+
